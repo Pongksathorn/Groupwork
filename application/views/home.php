@@ -1,0 +1,1 @@
+<?php  echo $show['name'];?>  <?php  echo $show['email'];?>  <?php  echo $show['pswd'];?>  <?php  echo $show['location'];?> 
